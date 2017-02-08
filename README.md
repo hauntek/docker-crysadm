@@ -4,12 +4,12 @@
 ***
 ## 版本说明
 ***
-- :0414，为4月14日更新代码
+- :0208，为2月8日更新代码
 
 ***
-## 2016.04.14 更新0414
+## 2017.02.08 更新0204
 ***
-4月14日更新源代码，说明见 https://github.com/hauntek/crysadm/tree/master/crysadm     
+4月14日更新源代码，说明见 https://github.com/hauntek/crysadm
 应用了nginx反向代理，容器端口为80,监工端口4000
 ***
 
