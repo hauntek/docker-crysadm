@@ -9,7 +9,8 @@
 ***
 ## 2017.02.08 更新0204
 ***
-4月14日更新源代码，说明见 https://github.com/hauntek/crysadm
+2月8日更新源代码，说明见 https://github.com/hauntek/crysadm
+
 应用了nginx反向代理，容器端口为80,监工端口4000
 ***
 
