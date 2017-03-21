@@ -1,13 +1,11 @@
 __author__ = 'powergx'
 
-
 class RedisConfig():
     def __init__(self, host, port, db, password=None):
         self.host = host
         self.port = port
         self.db = db
         self.password = password
-
 
 class Config(object):
     DEBUG = False
@@ -22,14 +20,11 @@ class Config(object):
     SERVER_IP = '0.0.0.0'
     SERVER_PORT = 4000
 
-
 class ProductionConfig(Config):
-    DEBUG = True
-
+    DEBUG = False
 
 class DevelopmentConfig(Config):
     DEBUG = True
-
 
 class TestingConfig(Config):
     DEBUG = True
