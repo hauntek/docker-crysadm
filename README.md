@@ -5,18 +5,15 @@
 ## 版本说明
 ***
 - :0331，为3月31日更新代码
-***
 
+***
 ## 2017.03.31 更新0331
-
 ***
-
 3月31日更新源代码，说明见 https://github.com/hauntek/crysadm
 
 应用了nginx反向代理，容器端口为80,监工端口4000
 
 ***
-
 云监工程序docker版，以`tutum/ubuntu:trusty`为母镜像
 
 适用于所有docker平台
@@ -32,9 +29,7 @@
 ***
 
 # 联系方式
-
 ***
-
 Email：(hauntek@hotmail.com)
 
 ***
